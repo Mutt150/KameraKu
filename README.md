@@ -127,11 +127,11 @@ camera?.cameraControl?.enableTorch(true/false)
 
 ## 📱 Contoh Hasil Foto
 
-*(Ganti bagian ini dengan screenshot atau file foto asli kamu)*
+Berikut adalah contoh hasil pengambilan gambar menggunakan aplikasi KameraKu:
 
-| Portrait | Landscape | Opsional |
+| Mode Portrait | Mode Landscape | Fitur Switch/Lainnya |
 | :---: | :---: | :---: |
-| ![Portrait](hasil_portrait.jpeg) | ![Landscape](hasil_landscape.jpeg) | ![Lainnya](hasil_switch.jpeg) |
+| ![Portrait](assets/hasil_portrait.jpeg) | ![Landscape](assets/hasil_landscape.jpeg) | ![Switch](assets/hasil_switch.jpeg) |
 
 ---
 
