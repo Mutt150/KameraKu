@@ -157,13 +157,3 @@ Berikut adalah contoh hasil pengambilan gambar menggunakan aplikasi KameraKu:
 * **CameraX** (Preview + ImageCapture + Lifecycle)
 
 ---
-
-## 🏁 Status Tugas
-Semua poin tugas praktikum telah terpenuhi:
-
-- [x] Preview Live
-- [x] Simpan foto ke MediaStore
-- [x] Thumbnail foto terakhir
-- [x] Switch kamera
-- [x] Flash & Torch
-- [x] Laporan & Dokumentasi
